@@ -4,3 +4,11 @@ Android (4.1 or higher) dowload here: https://drive.google.com/file/d/0B4Qpy_c-Q
 
 
 This reposition contains Android codes to query and display top laptops within the budget along with historical prices and recommendations for buyers.
+
+###Enviroments and technologies
+- Android studio (Android front end)
+- PHP, MySQL
+- Sypder 3.0 on Anacoda (Python)
+- EC2, DynamoDB
+
+For detail of server-side, please refer to following Github: https://github.com/nguyentrantuan/ShopAround-server 
