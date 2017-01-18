@@ -1,0 +1,30 @@
+{
+  "Products": [
+    {
+      "CurrentPrice": 1699,
+      "Link": "http://www.bestbuy.ca//en-CA/product/lenovo-lenovo-thinkpad-t560-15-6-fhd-notebook-i7-6600u-8gb-ddr3-256gb-ssd-win-7-pro-20fh001tus/10426126.aspx?path=f1d1569592f9d07eca295f507dd4a442en02",
+      "OriginalPrice": 2499,
+      "Prices": {"2016-12-22": 1999,
+        "u20161222": 2199,
+        "u20161226": 1699,
+        "u20170107": 1980,
+        "u20170109": 1699},
+      "ProductName": "Lenovo ThinkPad T560 15.6\" FHD Notebook - i7 6600U, 8GB DDR3, 256GB SSD, Win 7 Pro",
+      "SKU": "10426126",
+      "Seller": "Mike’s Computer Shop"
+    },
+    {
+      "CurrentPrice": 1699,
+      "Link": "http://www.bestbuy.ca//en-CA/product/lenovo-lenovo-thinkpad-t560-15-6-fhd-notebook-i7-6600u-8gb-ddr3-256gb-ssd-win-7-pro-20fh001tus/10426126.aspx?path=f1d1569592f9d07eca295f507dd4a442en02",
+      "OriginalPrice": 2499,
+      "Prices": {"2016-12-22": 1999,
+        "u20161222": 2199,
+        "u20161226": 1699,
+        "u20170107": 1980,
+        "u20170109": 1699},
+      "ProductName": "Lenovo ThinkPad T560 15.6\" FHD Notebook - i7 6600U, 8GB DDR3, 256GB SSD, Win 7 Pro",
+      "SKU": "10426126",
+      "Seller": "Mike’s Computer Shop"
+    }
+  ]
+}

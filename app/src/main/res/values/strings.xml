@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Shop Around</string>
+    <string name="price_range">Price range</string>
+    <string name="search">Search</string>
+    <string name="from">From </string>
+    <string name="to">To </string>
+    <string name="recommendation">Top 3 recommendations</string>
+    <string name="best_price">Best price: </string>
+    <string name="price_history">Price history</string>
+    <string name="other">Other options</string>
+    <string name="buy">Buy</string>
+</resources>
