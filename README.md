@@ -12,3 +12,5 @@ This reposition contains Android codes to query and display top laptops within t
 - EC2, DynamoDB
 
 For detail of server-side, please refer to following Github: https://github.com/nguyentrantuan/ShopAround-server 
+
+Mindmap: https://app.mindmup.com/map/_free/e4e0f420dc2411e6bdae49d573dbebce
